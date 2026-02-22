@@ -1,10 +1,8 @@
 ---
-description: >-
-  Legal Policy, Intellectual Property & Official Channels Effective Date: 2026
-  Version 1.0
+description: 'Effective Date: 2026 Version 1'
 ---
 
-# ♟️ Chess Jump
+# ♟️ Chess Jump Legal Policy, Intellectual Property & Official Channels
 
 ***
 
