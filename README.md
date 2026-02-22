@@ -4,9 +4,7 @@ description: >-
   disciplined, strategic chess players worldwide.
 ---
 
-# Chess Jump White Paper
-
-## ♟️ Chess Jump
+# ♟️Chess Jump White Paper
 
 ### A Global Community Protocol for Lifetime Chess Mastery
 
