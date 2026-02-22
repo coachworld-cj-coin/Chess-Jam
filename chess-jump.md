@@ -2,7 +2,7 @@
 description: 'Effective Date: 2026 Version 1.0'
 ---
 
-# ♟️ Chess Jump Legal Policy, Intellectual Property & Official Channels
+# ♟️Chess Jump Legal Policy, Intellectual Property & Official Channels
 
 ***
 
