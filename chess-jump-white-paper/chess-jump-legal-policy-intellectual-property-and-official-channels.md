@@ -4,30 +4,31 @@ description: 'Effective Date: 2026 Version 1.0'
 
 # ♟️Chess Jump Legal Policy, Intellectual Property & Official Channels
 
-***
-
 ## 1. Ownership Declaration
 
-Chess Jump is an original intellectual property initiative.
+Chess Jump is an original intellectual property initiative and decentralized community protocol.
 
-All content, frameworks, documentation, community structures, branding elements, and philosophical models published under the name **Chess Jump** are original works created by the founder of Chess Jump unless otherwise stated.
+All content, frameworks, documentation, community systems, governance models, branding elements, and philosophical structures published under the name **Chess Jump** are original works created by the founder of Chess Jump unless otherwise explicitly stated.
 
 Protected materials include, but are not limited to:
 
 * The name **Chess Jump**
 * The abbreviation **CJ**
 * Official slogans and taglines
-* Logos and visual identity
+* Logos, visual identity, and brand assets
 * The Lifetime Strategic Discipline framework
 * The Strategic Development Architecture
 * The Error Reduction Model
+* The Discipline-First Chess Philosophy
 * Community governance systems
-* Educational structures and mentorship models
+* Anonymous training model framework
+* Educational structures and mentorship systems
 * White papers and GitBook documentation
 * Original written content and instructional materials
 * Official posts published through authorized channels
+* Structured terminology unique to Chess Jump
 
-All such materials are protected under applicable intellectual property laws.
+All such materials are protected under applicable intellectual property, copyright, and unfair competition laws.
 
 ***
 
@@ -48,10 +49,11 @@ No part of Chess Jump content may be:
 * Translated for commercial distribution
 * Rebranded
 * Used to create derivative commercial works
+* Used to establish competing frameworks derived from proprietary systems
 
 Without prior written authorization from Chess Jump.
 
-Unauthorized use may result in legal enforcement.
+Unauthorized use may result in legal enforcement, including civil remedies where applicable.
 
 ***
 
@@ -65,16 +67,18 @@ Protected brand elements include:
 * “CJ”
 * Official taglines and slogans
 * Logos and visual branding
-* Official documentation format and structure
+* Official documentation structure
 * Recognized community philosophy
+* Official design language
+* Brand positioning and decentralized philosophy language
 
-Any imitation, misleading use, or confusingly similar branding may constitute infringement.
+Any imitation, misleading use, impersonation, or confusingly similar branding may constitute infringement.
 
 ***
 
 ### 3.2 Structural & Framework Protection
 
-The following conceptual systems are proprietary to Chess Jump:
+The following conceptual systems are proprietary intellectual property of Chess Jump:
 
 * Multi-layer development framework
 * Discipline-First Chess Philosophy
@@ -82,8 +86,10 @@ The following conceptual systems are proprietary to Chess Jump:
 * Strategic Compounding Methodology
 * Psychological Stability Framework
 * Community Architecture & Mentorship Model
+* Anonymous Training Model
+* Decentralized Community Protocol Structure
 
-Repackaging or presenting these frameworks as original work without attribution is prohibited.
+Repackaging, reframing, or presenting these frameworks as original work without proper authorization or attribution is strictly prohibited.
 
 ***
 
@@ -93,13 +99,17 @@ Protected content includes:
 
 * White papers
 * GitBook documentation
-* Articles and guides
+* Articles and written guides
 * Educational scripts
 * Training materials
 * Visual diagrams and structured outlines
+* Community policy documents
+* Governance documentation
 * Content published via official social media channels
+* Video educational materials
+* Live session recordings
 
-Commercial usage requires formal written approval.
+Commercial usage, redistribution, or derivative publication requires formal written approval.
 
 ***
 
@@ -107,12 +117,17 @@ Commercial usage requires formal written approval.
 
 The following are the only authorized official communication channels of **Chess Jump**:
 
-* **Facebook (Official Page)**\
-  [https://www.facebook.com/chessjumps](https://www.facebook.com/chessjumps)
-* **YouTube (Official Channel)**\
-  [https://www.youtube.com/@CoachJoelHouse](https://www.youtube.com/@CoachJoelHouse)
-* **Telegram (Official Group)**\
-  [https://t.me/Coach\_Joel\_House](https://t.me/Coach_Joel_House)
+#### Facebook (Official Page)
+
+[https://www.facebook.com/chessjumps](https://www.facebook.com/chessjumps)
+
+#### YouTube (Official Channel)
+
+[https://www.youtube.com/@CoachJoelHouse](https://www.youtube.com/@CoachJoelHouse)
+
+#### Telegram (Official Group)
+
+[https://t.me/Coach\_Joel\_House](https://t.me/Coach_Joel_House)
 
 These channels represent the official voice, announcements, educational materials, and community discussions of Chess Jump.
 
@@ -124,7 +139,7 @@ Chess Jump is not responsible for content published outside the official channel
 
 ### 4.1 Impersonation & Misrepresentation Policy
 
-Unauthorized use of the Chess Jump name, branding, logo, or identity across social media platforms, messaging applications, websites, or digital communities may constitute misrepresentation.
+Unauthorized use of the Chess Jump name, branding, logo, documentation, or identity across social media platforms, messaging applications, websites, or digital communities may constitute misrepresentation.
 
 Chess Jump reserves the right to:
 
@@ -132,6 +147,7 @@ Chess Jump reserves the right to:
 * Request removal of infringing content
 * Issue formal cease-and-desist notices
 * Pursue legal remedies where applicable
+* Restrict access to official community spaces
 
 Brand integrity protects community trust.
 
@@ -139,21 +155,23 @@ Brand integrity protects community trust.
 
 ## 5. Community Usage Policy
 
-Chess Jump encourages educational sharing within ethical boundaries.
+Chess Jump encourages responsible educational sharing within ethical boundaries.
 
-#### Permitted Use
+### Permitted Use
 
 * Sharing official links
-* Quoting small excerpts with clear attribution
+* Quoting limited excerpts with clear attribution
 * Referencing Chess Jump philosophy in non-commercial educational discussions
+* Sharing official materials in original, unaltered form
 
-#### Prohibited Use
+### Prohibited Use
 
 * Claiming Chess Jump frameworks as original personal work
 * Monetizing Chess Jump materials without authorization
 * Creating unofficial branches claiming official status
 * Removing attribution from shared materials
 * Misrepresenting affiliation with Chess Jump
+* Using Chess Jump branding to promote unrelated commercial products
 
 Integrity sustains longevity.
 
@@ -163,15 +181,21 @@ Integrity sustains longevity.
 
 Chess Jump is a discipline-driven global community.
 
-Members are expected to:
+All members, contributors, moderators, and affiliated participants are expected to:
 
 * Treat others with respect
 * Maintain professional and constructive communication
 * Avoid harassment, discrimination, or toxic behavior
 * Promote structured growth over ego
 * Uphold intellectual honesty
+* Support anonymous improvement culture
+* Encourage disciplined analysis over emotional reaction
 
-Violation of these principles may result in removal from official Chess Jump platforms.
+Violation of these principles may result in:
+
+* Warning notices
+* Removal from official platforms
+* Permanent exclusion from community participation
 
 Discipline applies both on the board and within the community.
 
@@ -179,7 +203,7 @@ Discipline applies both on the board and within the community.
 
 ## 7. Educational & Performance Disclaimer
 
-Chess Jump provides educational material for intellectual development purposes.
+Chess Jump provides educational material for intellectual development and structured improvement purposes.
 
 Improvement in chess performance depends on:
 
@@ -187,10 +211,13 @@ Improvement in chess performance depends on:
 * Study consistency
 * Practical application
 * Psychological stability
+* Time invested in training
 
-No guarantees of rating increase, tournament success, or financial gain are made.
+No guarantees of rating increase, tournament success, income generation, sponsorship, or financial gain are made or implied.
 
-All materials are provided “as is” without warranties of any kind.
+All materials are provided “as is” without warranties of any kind, express or implied.
+
+Chess Jump does not assume responsibility for individual competitive outcomes.
 
 ***
 
@@ -201,7 +228,8 @@ Chess Jump reserves the right to register and legally protect:
 * The name Chess Jump
 * Logos and visual identity
 * Unique branded terminology
-* Proprietary frameworks
+* Proprietary frameworks and models
+* Official community identifiers
 
 Unauthorized commercial use may be subject to trademark enforcement upon registration under applicable jurisdictions.
 
@@ -216,29 +244,36 @@ Individuals or organizations seeking to:
 * Translate documentation for commercial distribution
 * Host official Chess Jump tournaments
 * Develop paid courses under the Chess Jump name
+* Create branded merchandise
+* Launch affiliated training programs
 
 Must obtain written authorization.
 
-Formal partnership agreements may be required.
+Formal partnership agreements, licensing contracts, or usage agreements may be required.
+
+No commercial representation of Chess Jump is permitted without documented approval.
 
 ***
 
 ## 10. Amendments
 
-Chess Jump reserves the right to update or modify this policy to protect:
+Chess Jump reserves the right to update, revise, or modify this policy to protect:
 
 * Brand integrity
 * Community standards
 * Intellectual property
 * Legal compliance
+* Structural consistency
 
 Updated versions will replace prior versions in official documentation.
+
+Continued participation implies acceptance of the current policy version.
 
 ***
 
 ## 11. Official Contact for Legal & Licensing
 
-For permissions, licensing inquiries, or official collaboration requests:
+For permissions, licensing inquiries, partnership proposals, or official collaboration requests:
 
 **\[Insert Official Chess Jump Contact Email]**
 
@@ -248,25 +283,27 @@ All requests must include:
 * Scope of distribution
 * Commercial or non-commercial intent
 * Geographic region of use
+* Duration of intended usage
+
+Incomplete requests may not be reviewed.
 
 ***
 
 ## 12. Final Statement
 
-Chess Jump is built on originality, discipline, and long-term strategic vision.
+Chess Jump is built on originality, discipline, decentralization, and long-term strategic vision.
 
 This policy exists to protect:
 
 * The integrity of the philosophy
 * The authenticity of the framework
+* The decentralization structure
 * The strength of the global community
 
-> Strong structures endure because they are protected.
+Strong structures endure because they are protected.
 
 ***
 
 ♟️ **Chess Jump (CJ)**\
 All Rights Reserved\
 2026
-
-***
